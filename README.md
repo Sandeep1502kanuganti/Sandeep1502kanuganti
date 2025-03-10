@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **CCNA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sandeep1502kanuganti/Sandeep1502kanuganti/edit/main/README.md]
+- 👨‍💻 All of my projects are available at https://github.com/Sandeep1502kanuganti
 
 - 💬 Ask me about **Computer Networks**
 
