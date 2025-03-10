@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanuganti Sandeep </h1>
 <h3 align="center">A passionate Security Analyst dedicated to safeguarding digital assets with innovative and efficient security solutions.</h3>
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/07069749-987d-4686-afd1-0c602a7fe28b" alt="SANDEEP KANUGANTI Protect Your Data">
-</div>
+
 
 - 🌱 I’m currently learning **CCNA**
 
